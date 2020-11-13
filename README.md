@@ -8,9 +8,11 @@ A website that can be accessed by anyone that can create a random password using
 * CSS
 * JaveScript
 
-## Website
-
+## Website Link
+https://mheyn95.github.io/password-generator/
 
 ## Screenshot
-![Password Generator Screen Shot](./assets/images/screenshot-portfolio.png "Password Generator Screen Shot")
+![Password Generator Screen Shot](./assets/images/password-generator-screenshot.png "Password Generator Screen Shot")
 
+### Built By
+Mitchell Heyn
