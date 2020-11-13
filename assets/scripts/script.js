@@ -15,7 +15,7 @@ function generatePassword() {
     //Run same function again to 'restart'
     generatePassword();
   }
-  
+
   else {
     //turn the password length from a string into an integer
     passLength = parseInt(passLength);
